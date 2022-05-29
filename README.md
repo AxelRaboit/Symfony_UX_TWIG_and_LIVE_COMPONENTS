@@ -1,3 +1,8 @@
+## Requierments
+- PHP 8
+- Symfony 6
+- Composer
+
 ## Install
 ```shell
 composer require symfony/ux-twig-component
